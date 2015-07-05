@@ -1,0 +1,31 @@
+{
+  "name": "is-prime",
+  "version": "1.0.0",
+  "description": "Test if a number is prime",
+  "license": "MIT",
+  "repository": "lborgav/is-prime",
+  "author": {
+    "name": "Leonardo Borges Avelino",
+    "email": "lborgav@gmail.com",
+    "url": "lborgav.com"
+  },
+  "engines": {
+    "node": ">=0.10.0"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "files": [
+    "index.js"
+  ],
+  "keywords": [
+    "prime",
+    "primality"
+  ],
+  "dependencies": {
+    "number-is-integer": "*"
+  },
+  "devDependencies": {
+    "mocha": "*"
+  }
+}
