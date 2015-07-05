@@ -1,6 +1,6 @@
 {
   "name": "is-prime",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Test if a number is prime",
   "license": "MIT",
   "repository": "lborgav/is-prime",
